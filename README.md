@@ -13,7 +13,6 @@
 8. [Glossário](#glossário)
 9. [Referências](#referências)
 10. [Lista De Necessidades](#lista-de-necessidades)
-11. [Autorizações](#autorizações)
 
 ## Descrição Do Projeto
 A Embromation foi fundada em setembro de 2018. É uma instituição focada no ensino da língua inglesa, que possui sede na Avenida Paulista, São Paulo, SP. 
