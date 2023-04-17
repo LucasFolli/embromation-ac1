@@ -55,6 +55,8 @@ A empresa está com baixo número de alunos, portanto o orçamento é baixo e as
   > **RA:** 2203393 | **E-mail:** marcio.zulin@aluno.faculdadeimpacta.com.br
 - Felipe Vilaça Da Silva
   > **RA:** 2301771 | **E-mail:** felipe.vilaca@aluno.faculdadeimpacta.com.br
+- Giovanni Aprile De Andrade
+  > **RA:** 2202298 | **E-mail:** giovanni.andrade@aluno.faculdadeimpacta.com.br
 
 ## Regras de comunicação
 - Reuniões online para alinhamento a cada 3 dias
